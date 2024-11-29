@@ -9,7 +9,14 @@ public class Executavel {
 		double numeroDecimal;
 		String texto;
 		
-		//Atribuição
+		//Atribuição de valores as variáveis.
+		inteiro = 5;
+		numeroDecimal = 5.65;
+		texto = "Marjorie;"
+				
+	    System.out.println("Nome: " + texto);
+	    System.out.println("Numero inteiro: " + inteiro);
+	    System.out.println("Numero decimal: " + numeroDecimal);
 	}
 
 }
